@@ -101,8 +101,8 @@
 
 > Reference datasets and encoding datasheets used in the CICIoV2024 benchmark.
 
-| Asset | Description | Download |
-|---|---|---|
+| Asset | Download |
+|---|---|
 | `Datasheet CICIoV2024 For binary.zip` | [![Download](https://img.shields.io/badge/Download-zip-2ea44f?style=for-the-badge&logo=github)](https://ptok2.pcloud.com/cfZol8wFJ7ZWH8jh67Z3Yow7ZZ9Ita5kZ2ZZMAJZZhDTEZ3RZWmZWRZLYZ3YZxmZwRZPpZh4Z0MZkYZMFZmLZ5gZ5RkcoMjFKlBlGENKVQGShpdN9YjV/binary.zip) |
 | `Datasheet CICIoV2024 For decimal.zip` | [![Download](https://img.shields.io/badge/Download-zip-2ea44f?style=for-the-badge&logo=github)](https://ptok2.pcloud.com/DLZc08wFJ7Z7J4jh67Z3Yow7ZZIIta5kZ2ZZMAJZZ83yJZtMZ5gZgMZVRHggqIbUojxPifaytttSjGTl46k/decimal.zip) |
 | `Datasheet CICIoV2024 For hexadecimal.zip` | [![Download](https://img.shields.io/badge/Download-zip-2ea44f?style=for-the-badge&logo=github)](https://ptok2.pcloud.com/DLZF18wFJ7ZdU4jh67Z3Yow7ZZoIta5kZ2ZZMAJZZNO3JZfYZRYZnYZT9rwFzofFX8SUV28n07pzV5dcs2X/hexadecimal.zip) |
